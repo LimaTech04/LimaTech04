@@ -44,8 +44,8 @@ Plataforma white-label de delivery com subdomínios por loja.
 
 ---
 
-### 🏥 RH-Saúde
-Sistema de gestão para saúde pública.  
+### 🏥 RH-Empresarial
+Sistema de gestão de Ferias e Folgas.  
 ✔️ Controle de férias e folgas  
 ✔️ Regras por setor  
 ✔️ Gestão de colaboradores  
@@ -54,5 +54,5 @@ Sistema de gestão para saúde pública.
 
 ## 📫 Contato
 
-📧 Email: contato@limatech.com.br *(ou ajuste depois)*  
+📧 Email: limatech04@gmail.com
 🌐 Site: Em breve  
