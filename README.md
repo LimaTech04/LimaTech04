@@ -1,16 +1,58 @@
-## Hi there 👋
+# 🚀 Mateus Lima | LimaTech
 
-<!--
-**LimaTech04/LimaTech04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fundador da **LimaTech**, focado em desenvolvimento de plataformas SaaS, automação, bots e soluções web escaláveis.
 
-Here are some ideas to get you started:
+💻 Full Stack Developer  
+🐍 Python | FastAPI | Async  
+⚛️ React | TypeScript | Vite  
+🗄️ PostgreSQL | Redis  
+☁️ VPS | Docker | Nginx  
+🎮 FiveM | Lua | NUI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Sobre
+
+Atuo no desenvolvimento de soluções completas, desde arquitetura backend até interfaces modernas e automação de processos.  
+Tenho forte foco em:
+
+- ✅ Arquiteturas SaaS Multi-Tenant  
+- ✅ Licenciamento e automação  
+- ✅ Dashboards em tempo real  
+- ✅ Segurança e autenticação  
+- ✅ Escalabilidade e performance  
+
+---
+
+## 🚧 Projetos em Destaque
+
+### 🤖 ZunnerBots
+Plataforma SaaS para gerenciamento de bots Discord e WhatsApp.  
+✔️ Monitoramento  
+✔️ Controle de licenças  
+✔️ Supervisão automática  
+✔️ Painel administrativo  
+
+---
+
+### 🍔 VoDelivery
+Plataforma white-label de delivery com subdomínios por loja.  
+✔️ Marketplace  
+✔️ Sistema de pedidos  
+✔️ Avaliações  
+✔️ Painel administrativo  
+
+---
+
+### 🏥 RH-Saúde
+Sistema de gestão para saúde pública.  
+✔️ Controle de férias e folgas  
+✔️ Regras por setor  
+✔️ Gestão de colaboradores  
+
+---
+
+## 📫 Contato
+
+📧 Email: contato@limatech.com.br *(ou ajuste depois)*  
+🌐 Site: Em breve  
