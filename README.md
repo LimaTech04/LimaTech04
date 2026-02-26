@@ -1,4 +1,4 @@
-# 🚀 Mateus Lima | LimaTech
+# 🚀 Mateus Lima | Lima Tecnologia
 
 Fundador da **LimaTech**, focado em desenvolvimento de plataformas SaaS, automação, bots e soluções web escaláveis.
 
