@@ -1,58 +1,39 @@
-# 🚀 Mateus Lima | Lima Tecnologia
+# Mateus Lima
 
-Fundador da **LimaTech**, focado em desenvolvimento de plataformas SaaS, automação, bots e soluções web escaláveis.
+**Founder & CEO at LimaTech**
 
-💻 Full Stack Developer  
-🐍 Python | FastAPI | Async  
-⚛️ React | TypeScript | Vite  
-🗄️ PostgreSQL | Redis  
-☁️ VPS | Docker | Nginx  
-🎮 FiveM | Lua | NUI  
+Atuo no desenvolvimento de produtos digitais e na construção da LimaTech, empresa de tecnologia voltada à criação de plataformas SaaS e sistemas de gestão.
 
----
+Meu trabalho envolve produto, arquitetura de software, engenharia e estratégia, acompanhando todo o ciclo de desenvolvimento — da identificação do problema à operação e evolução do produto em produção.
 
-## 🧠 Sobre
+## LimaTech
 
-Atuo no desenvolvimento de soluções completas, desde arquitetura backend até interfaces modernas e automação de processos.  
-Tenho forte foco em:
+A **LimaTech** desenvolve soluções próprias de software com foco em simplicidade, confiabilidade e aplicação prática.
 
-- ✅ Arquiteturas SaaS Multi-Tenant  
-- ✅ Licenciamento e automação  
-- ✅ Dashboards em tempo real  
-- ✅ Segurança e autenticação  
-- ✅ Escalabilidade e performance  
+### Produtos
 
----
+**VoDelivery**  
+Plataforma SaaS para delivery e gestão de estabelecimentos, reunindo operação, vendas e relacionamento com clientes.
 
-## 🚧 Projetos em Destaque
+**LT Saúde**  
+Plataforma de gestão voltada ao setor de saúde, integrando pessoas, processos, documentos e rotinas administrativas.
 
-### 🤖 ZunnerBots
-Plataforma SaaS para gerenciamento de bots Discord e WhatsApp.  
-✔️ Monitoramento  
-✔️ Controle de licenças  
-✔️ Supervisão automática  
-✔️ Painel administrativo  
+## Áreas de atuação
 
----
+- Desenvolvimento de produtos SaaS
+- Arquitetura de software
+- Sistemas de gestão
+- Aplicações web
+- APIs e integrações
+- Infraestrutura e operação de software
+- Segurança e confiabilidade
 
-### 🍔 VoDelivery
-Plataforma white-label de delivery com subdomínios por loja.  
-✔️ Marketplace  
-✔️ Sistema de pedidos  
-✔️ Avaliações  
-✔️ Painel administrativo  
+## Tecnologias
 
----
+Python · FastAPI · React · TypeScript · PostgreSQL · Docker · Linux
 
-### 🏥 RH-Empresarial
-Sistema de gestão de Ferias e Folgas.  
-✔️ Controle de férias e folgas  
-✔️ Regras por setor  
-✔️ Gestão de colaboradores  
+## Contato
 
----
-
-## 📫 Contato
-
-📧 Email: limatech04@gmail.com
-🌐 Site: https://limatechlabs.com/
+LimaTech  
+limatech04@gmail.com  
+limatechlabs.com
