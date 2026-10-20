@@ -1,39 +1,40 @@
 # Mateus Lima
 
-**Founder & CEO at LimaTech**
+**AI Product Engineer & SaaS Founder at LimaTech**
 
-Atuo no desenvolvimento de produtos digitais e na construção da LimaTech, empresa de tecnologia voltada à criação de plataformas SaaS e sistemas de gestão.
+Atuo na arquitetura e desenvolvimento de produtos digitais de alta performance e na consolidação da LimaTech, empresa de tecnologia focada em automação inteligente, plataformas SaaS e ecossistemas de gestão corporativa.
 
-Meu trabalho envolve produto, arquitetura de software, engenharia e estratégia, acompanhando todo o ciclo de desenvolvimento — da identificação do problema à operação e evolução do produto em produção.
+Meu trabalho une a visão estratégica de negócios e economia à engenharia de software avançada. Conduzo todo o ciclo de vida dos produtos — do design da arquitetura lógica e padrões de qualidade rigorosos à operação e monitoramento de infraestruturas em produção.
 
 ## LimaTech
 
-A **LimaTech** desenvolve soluções próprias de software com foco em simplicidade, confiabilidade e aplicação prática.
+A **LimaTech** desenvolve soluções de software com foco em engenharia limpa, máxima eficiência e aplicação prática para o mercado corporativo.
 
 ### Produtos
 
-**VoDelivery**  
-Plataforma SaaS para delivery e gestão de estabelecimentos, reunindo operação, vendas e relacionamento com clientes.
+**VoDelivery**
 
-**LT Saúde**  
-Plataforma de gestão voltada ao setor de saúde, integrando pessoas, processos, documentos e rotinas administrativas.
+Plataforma SaaS para delivery e gestão de estabelecimentos, centralizando toda a inteligência de operação, vendas e relacionamento de forma rápida e escalável.
 
-## Áreas de atuação
+**LT Saúde**
 
-- Desenvolvimento de produtos SaaS
-- Arquitetura de software
-- Sistemas de gestão
-- Aplicações web
-- APIs e integrações
-- Infraestrutura e operação de software
-- Segurança e confiabilidade
+Plataforma de gestão integrada voltada ao setor de saúde, otimizando processos, documentos e fluxos administrativos críticos.
 
-## Tecnologias
+## Áreas de Atuação
 
-Python · FastAPI · React · TypeScript · PostgreSQL · Docker · Linux
+- Engenharia de Produto de IA (AI Product Engineering)
+- Arquitetura de software e design de sistemas
+- Desenvolvimento de plataformas de missão crítica e SaaS
+- Otimização avançada de bancos de dados
+- Infraestrutura, automação de servidores e operações em nuvem
+- Segurança, padronização e confiabilidade técnica
+
+## Tecnologias e Stack
+
+Python · FastAPI · React + Vite · TypeScript · Pure PostgreSQL · Docker · Linux (VPS)
 
 ## Contato
 
-LimaTech  
-limatech04@gmail.com  
+LimaTech
+limatech04@gmail.com
 limatechlabs.com
